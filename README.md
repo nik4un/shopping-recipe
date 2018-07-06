@@ -1,1 +1,1 @@
-# shopping-recipe
+# Shopping list and recipe book
